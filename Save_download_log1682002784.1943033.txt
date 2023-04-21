@@ -1,0 +1,236 @@
+
+1: Download already found: Fascination
+2: Download already found: Jungle Drum
+3: Download already found: Huddle Formation
+4: Download failed: Move Your Feet
+4: Download failed again: Move Your Feet
+Unexpected err=VideoUnavailable('TjkQeBG8r_s is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+5: Download already found: Wraith Pinned To The Mist And Other Games
+6: Download failed: Loba
+6: Download failed again: Loba
+Unexpected err=VideoUnavailable('inavo37kSOg is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+7: Download failed: Scotty Doesn't Know
+7: Download failed again: Scotty Doesn't Know
+Unexpected err=VideoUnavailable('51ncDQYxsm8 is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+8: Download failed: Let It Rain (Dj 4 Strings Vocal Mix)
+8: Download failed again: Let It Rain (Dj 4 Strings Vocal Mix)
+Unexpected err=KeyError('streamingData'), type(err)=<class 'KeyError'>
+9: Download failed: Say Hey (I Love You)
+9: Download failed again: Say Hey (I Love You)
+Unexpected err=VideoPrivate('eoaTl7IcFs8 is a private video'), type(err)=<class 'pytube.exceptions.VideoPrivate'>
+10: Download failed: Honey
+10: Download failed again: Honey
+Unexpected err=VideoUnavailable('PT47mdE7qY4 is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+11: Download already found: Jai Ho
+12: Download already found: Love Today
+13: Download already found: We're From Barcelona
+14: Download already found: Accessory
+15: Download failed: Blame It On The Boogie
+15: Download failed again: Blame It On The Boogie
+Unexpected err=VideoUnavailable('nb1u7wMKywM is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+16: Download already found: Caroline
+17: Download already found: Miniature Birds
+18: Download already found: Breakdown
+19: Download failed: Amber
+19: Download failed again: Amber
+Unexpected err=VideoPrivate('cCO-3TzoFJo is a private video'), type(err)=<class 'pytube.exceptions.VideoPrivate'>
+20: Download already found: Nasty Naughty Boy
+21: Download failed: Stop The Dams
+21: Download failed again: Stop The Dams
+Unexpected err=VideoUnavailable('p_1-VFflpCI is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+22: Download already found: New York I Love You But You're Bringing Me Down
+23: Download already found: Her Morning Elegance
+24: Download already found: First Day Of My Life
+25: Download already found: Jackass
+26: Download failed: Happy Up Here
+26: Download failed again: Happy Up Here
+Unexpected err=VideoUnavailable('KmcPeuf5aXo is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+27: Download already found: I'm Yours
+28: Download already found: Tango
+29: Download already found: Butterfly Nets
+30: Download already found: 5 Years Time
+31: Download already found: Normal
+32: Download already found: Mad World
+33: Download already found: How To Fight Loneliness
+34: Download failed: Here Comes Goodbye
+34: Download failed again: Here Comes Goodbye
+Unexpected err=VideoPrivate('1Uq3nI11w4g is a private video'), type(err)=<class 'pytube.exceptions.VideoPrivate'>
+35: Download failed: Joy (New Carnegie Mix)
+35: Download failed again: Joy (New Carnegie Mix)
+Unexpected err=VideoUnavailable('Zxe4H0kQpis is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+36: Download failed: Citizens Of Tomorrow (Space Ballad Version)
+36: Download failed again: Citizens Of Tomorrow (Space Ballad Version)
+Unexpected err=VideoUnavailable('2SpecRRKRoU is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+37: Download failed: Darkest Things
+37: Download failed again: Darkest Things
+Unexpected err=VideoPrivate('ijLKoqN5_EY is a private video'), type(err)=<class 'pytube.exceptions.VideoPrivate'>
+38: Download already found: Listen To Your Heart (Edmee's Unplugged Vocal Edit)
+39: Download already found: Nicest Thing
+40: Download failed: Von
+40: Download failed again: Von
+Unexpected err=VideoUnavailable('hme5jf2Z_ow is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+41: Download already found: Goodbye My Lover
+42: Download failed: Last Flowers
+42: Download failed again: Last Flowers
+Unexpected err=VideoUnavailable('WDdleGysNys is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+43: Download failed: Hurt
+43: Download failed again: Hurt
+Unexpected err=VideoUnavailable('AO9dbmJ_2zU is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+44: Download already found: Goodbye My Almost Lover
+45: Download already found: The Weight Of My Words
+46: Download failed: The Longest Year
+46: Download failed again: The Longest Year
+Unexpected err=VideoUnavailable('b9E53eUhEmA is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+47: Download failed: Threshold
+47: Download failed again: Threshold
+Unexpected err=VideoUnavailable('sMf2srQ065E is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+48: Download already found: Break Stuff
+49: Download failed: Smoke 'Em If Ya Got 'Em 
+49: Download failed again: Smoke 'Em If Ya Got 'Em 
+Unexpected err=VideoUnavailable('7usTgw-7XfM is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+50: Download failed: Murder Or Suicide
+50: Download failed again: Murder Or Suicide
+Unexpected err=VideoUnavailable('RbACqaCGVk4 is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+51: Download already found: The One I Once Was
+52: Download already found: I Hate
+53: Download already found: The Beautiful People
+54: Download already found: Nosferatu
+55: Download already found: Corporate Cannibal
+56: Download already found: Bastard Set Of Dreams
+57: Download already found: Believe
+58: Download failed: Who The Fuck?
+58: Download failed again: Who The Fuck?
+Unexpected err=KeyError('streamingData'), type(err)=<class 'KeyError'>
+60: Download already found: St. Anger
+61: Download failed: You're The One That I Want 
+61: Download failed again: You're The One That I Want 
+Unexpected err=VideoUnavailable('gyUWkQj0Q_U is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+62: Download already found: Love Shack
+63: Download already found: Song 2 
+64: Download already found: No Rain 
+65: Download already found: Soldier Girl 
+66: Download already found: Sabotage 
+67: Download failed: Weapon Of Choice 
+67: Download failed again: Weapon Of Choice 
+Unexpected err=VideoUnavailable('K7Ky5R-vxns is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+68: Download failed: Seven Nation Army
+68: Download failed again: Seven Nation Army
+Unexpected err=VideoUnavailable('VTN31q357Ys is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+69: Download failed: Britain's Got Talent 2009
+69: Download failed again: Britain's Got Talent 2009
+Unexpected err=VideoUnavailable('9lp0IWv8QZY is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+70: Download already found: First Date
+71: Download already found: The Final Countdown
+72: Download already found: Satisfaction 
+73: Download already found: Lady Marmalade 
+74: Download failed: Do It Again
+74: Download failed again: Do It Again
+Unexpected err=VideoUnavailable('VMpakpQBaxE is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+75: Download already found: Barbie Girl
+76: Download already found: Moon Safari
+77: Download already found: Carnival 
+78: Download failed: 1979 
+78: Download failed again: 1979 
+Unexpected err=VideoUnavailable('E2snP7rGP6g is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+79: Download failed: Viva La Vida 
+79: Download failed again: Viva La Vida 
+Unexpected err=VideoUnavailable('-9tgyQriews is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+80: Download failed: What A Wonderful World 
+80: Download failed again: What A Wonderful World 
+Unexpected err=VideoUnavailable('3orLNBS2ZbU is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+81: Download already found: My Humps
+82: Download failed: Sitting Down Here
+82: Download failed again: Sitting Down Here
+Unexpected err=VideoUnavailable('Mov0dnY_6NM is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+83: Download already found: Me Gustas Tu
+84: Download failed: Fuck You
+84: Download failed again: Fuck You
+Unexpected err=VideoUnavailable('S0zMHf7J15g is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+85: Download already found: Love Story
+86: Download already found: Marooned
+87: Download failed: Easy
+87: Download failed again: Easy
+Unexpected err=VideoPrivate('t1WAMNIunKc is a private video'), type(err)=<class 'pytube.exceptions.VideoPrivate'>
+88: Download already found: I Want To Break Free
+89: Download failed: Step Into My Office Baby
+89: Download failed again: Step Into My Office Baby
+Unexpected err=VideoUnavailable('5YObYOHIZkk is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+90: Download failed: Dancing With Myself
+90: Download failed again: Dancing With Myself
+Unexpected err=VideoUnavailable('J5j-ipGFcko is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+91: Download already found: Why Does My Heart Feel So Bad
+92: Download failed: Bittersweet Symphony 
+92: Download failed again: Bittersweet Symphony 
+Unexpected err=VideoPrivate('Zx3m4e45bTo is a private video'), type(err)=<class 'pytube.exceptions.VideoPrivate'>
+93: Download failed: The Scientist 
+93: Download failed again: The Scientist 
+Unexpected err=VideoPrivate('tmjPrdTNxQ0 is a private video'), type(err)=<class 'pytube.exceptions.VideoPrivate'>
+94: Download failed: Nothing Else Matters 
+94: Download failed again: Nothing Else Matters 
+Unexpected err=VideoUnavailable('8ftz06I_j-k is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+95: Download already found: Rain
+96: Download failed: Breathe Me
+96: Download failed again: Breathe Me
+Unexpected err=VideoUnavailable('ghPcYqn0p4Y is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+97: Download failed: Hurt
+97: Download failed again: Hurt
+Unexpected err=VideoUnavailable('zHqZmtAD0lQ is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+98: Download failed: May It Be (Saving Private Ryan)
+98: Download failed again: May It Be (Saving Private Ryan)
+Unexpected err=VideoUnavailable('xxvw5vrJxos is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+99: Download failed: Ending Scene (The Musical Part)
+99: Download failed again: Ending Scene (The Musical Part)
+Unexpected err=VideoUnavailable('uuzNohk5cYw is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+100: Download failed: Falling Slowly
+100: Download failed again: Falling Slowly
+Unexpected err=VideoUnavailable('CoSL_qayMCc is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+101: Download already found: Roads
+102: Download failed: Nothing Compares To You
+102: Download failed again: Nothing Compares To You
+Unexpected err=VideoPrivate('iUiTQvT0W_0 is a private video'), type(err)=<class 'pytube.exceptions.VideoPrivate'>
+103: Download failed: Unchained Melody
+103: Download failed again: Unchained Melody
+Unexpected err=VideoUnavailable('dwXzpTU-NCk is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+104: Download failed: No Surprises
+104: Download failed again: No Surprises
+Unexpected err=VideoPrivate('sgzeqwhNTDk is a private video'), type(err)=<class 'pytube.exceptions.VideoPrivate'>
+105: Download failed: Hallelujah
+105: Download failed again: Hallelujah
+Unexpected err=VideoUnavailable('N3-_DbEYe7A is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+106: Download failed: Embrace The Night 
+106: Download failed again: Embrace The Night 
+Unexpected err=VideoUnavailable('GKcQ2RiETss is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+107: Download failed: A Hardcore State Of Mind
+107: Download failed again: A Hardcore State Of Mind
+Unexpected err=VideoUnavailable('6fxI1JsXv1A is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+108: Download failed: Gloomy Sunday
+108: Download failed again: Gloomy Sunday
+Unexpected err=VideoUnavailable('KzWVWY5QUzg is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+109: Download failed: Bullet With Butterfly Wings
+109: Download failed again: Bullet With Butterfly Wings
+Unexpected err=VideoUnavailable('dxNX_PRqhCQ is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+110: Download already found: Zombie
+111: Download failed: Procrastination On The Empty Vessel
+111: Download failed again: Procrastination On The Empty Vessel
+Unexpected err=KeyError('streamingData'), type(err)=<class 'KeyError'>
+112: Download failed: Refuse Resist
+112: Download failed again: Refuse Resist
+Unexpected err=VideoUnavailable('AJQ4sg3VCsk is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+113: Download failed: Scorched Earth Erotica
+113: Download failed again: Scorched Earth Erotica
+Unexpected err=VideoUnavailable('ScD62dww0Fw is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+114: Download already found: Homage For Satan
+115: Download failed: Carving A Giant
+115: Download failed again: Carving A Giant
+Unexpected err=KeyError('streamingData'), type(err)=<class 'KeyError'>
+116: Download failed: My Funeral 
+116: Download failed again: My Funeral 
+Unexpected err=KeyError('streamingData'), type(err)=<class 'KeyError'>
+117: Download failed: Angels Of The Silences
+117: Download failed again: Angels Of The Silences
+Unexpected err=VideoPrivate('rHaKHy8qSpo is a private video'), type(err)=<class 'pytube.exceptions.VideoPrivate'>
+118: Download failed: Bombtrack
+118: Download failed again: Bombtrack
+Unexpected err=VideoUnavailable('Tu1wAP2Baco is unavailable'), type(err)=<class 'pytube.exceptions.VideoUnavailable'>
+119: Download already found: Hyper Hyper
+120: Download already found: My Apocalypse
