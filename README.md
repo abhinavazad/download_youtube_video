@@ -3,7 +3,7 @@ This script can be used to download a series of videos from a given list of link
 
 
 ## Parameters: 
-###        1. filenmae       
+###        1. filename      
 Path of the video_list.xlx file from where the links will be extracted.
 ###        2. columnname      
 Name of the column which consists the video links in the video_list.xlx file 
